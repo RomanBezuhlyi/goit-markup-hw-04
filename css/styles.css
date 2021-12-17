@@ -402,7 +402,7 @@ img {
   border: 1px solid #afb1b8;
   box-sizing: border-box;
   border-radius: 4px;
-  fill: #757575;
+  fill: #afb1b8;
 }
 
 .client-list:not(:last-child) {
